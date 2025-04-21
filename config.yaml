@@ -1,0 +1,22 @@
+join_rooms:
+- pin: qwe
+  rid: 0Q3qYc3E
+- pin: qwe
+  rid: lhHq2HCp
+- pin: qwe
+  rid: nwfvGgQf
+test_users:
+- password: tmppassword
+  username: p_13298184134
+- password: tmppassword
+  username: p_13298184134_player1
+- password: tmppassword
+  username: p_13298184134_player2
+- password: tmppassword
+  username: p_13298184134_player3
+- password: tmppassword
+  username: p_13298184134_player4
+- password: tmppassword
+  username: p_13298184134_player5
+- password: tmppassword
+  username: p_13298184134_player6
